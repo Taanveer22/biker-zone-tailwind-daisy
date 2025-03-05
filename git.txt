@@ -1,0 +1,11 @@
+echo "# biker-zone-tailwind-daisy" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/Taanveer22/biker-zone-tailwind-daisy.git
+git push -u origin master
+
+git remote add origin https://github.com/Taanveer22/biker-zone-tailwind-daisy.git
+git branch -M master
+git push -u origin master
